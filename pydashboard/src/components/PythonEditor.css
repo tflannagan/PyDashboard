@@ -1,0 +1,16 @@
+.python-editor {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.python-editor .execute-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #007acc;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
